@@ -17,6 +17,7 @@ B=2
 C=3
 D=5
 E=10
+F=12
 
 echo "Hello World!!!"
 
